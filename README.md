@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻I'm currently working on Bayport latam<br>⚛️I'm currently learning React<br>💫Fun fact :I love magic card tricks<br><br>
+💻 ¡Hola, mundo! Soy un novato en el fascinante mundo del desarrollo de software, 🚀<br>⚛️I'm currently learning React<br>💫Fun fact :I love magic card tricks<br><br>
 
 
 ## 🌐 Socials:
