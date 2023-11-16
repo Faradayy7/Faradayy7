@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 ¡Hola, mundo! Soy un novato en el fascinante mundo del desarrollo de software, 🚀<br>navegando por las líneas de código, ✨<br>Mi espada es mi teclado⚔️<br>⚛️I'm currently learning React<br>💫Fun fact :I love magic card tricks<br><br>
+💻 <br>
 
 
 ## 🌐 Socials:
